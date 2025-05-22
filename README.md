@@ -2,8 +2,8 @@
 
 ## Comparative Analysis of Naïve Prompting versus Basic Prompting Across 
 
-Name : Mukesh Kumar J.P 
-Reg No:212222223002 
+### Name : Mukesh Kumar J.P 
+### Reg No:212222223002 
 ```
 Various Test Scenarios 
 1.	Introduction 
