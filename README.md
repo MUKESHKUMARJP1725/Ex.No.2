@@ -1,4 +1,4 @@
-## Exp-2 
+## Experiment No.2 
 
 ## Comparative Analysis of Naïve Prompting versus Basic Prompting Across 
 
