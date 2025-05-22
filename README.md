@@ -4,7 +4,7 @@
 
 Name : Mukesh Kumar J.P 
 Reg No:212222223002 
-
+```
 Various Test Scenarios 
 1.	Introduction 
 The effectiveness of AI models depends largely on how prompts are structured. A wellcrafted prompt can yield more relevant, accurate, and in-depth responses, while a vague or broad prompt may result in generic or incomplete answers. This study examines how different AI models respond to naïve prompts (broad and unstructured) versus basic prompts (clearer and more refined). The objective is to analyze the quality, accuracy, and depth of the responses across multiple scenarios and models. 
@@ -97,3 +97,4 @@ ChatGPT-4 and Claude-3 excelled, while Gemini and LLaMA-3 were less consistent.
 ✅ For creative writing, Claude-3 excelled. It produced more emotionally engaging and well-crafted stories. 
 ✅ For coding and structured explanations, ChatGPT-4 led the pack. It provided the best Python-related responses with well-structured explanations. 
  
+```
